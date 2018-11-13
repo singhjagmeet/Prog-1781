@@ -1,0 +1,7 @@
+C:\Users\Jagmeet\Desktop\A2jagmeetsinghb\A2jagmeetsinghb\bin\Debug\A2jagmeetsinghb.exe.config
+C:\Users\Jagmeet\Desktop\A2jagmeetsinghb\A2jagmeetsinghb\bin\Debug\A2jagmeetsinghb.exe
+C:\Users\Jagmeet\Desktop\A2jagmeetsinghb\A2jagmeetsinghb\bin\Debug\A2jagmeetsinghb.pdb
+C:\Users\Jagmeet\Desktop\A2jagmeetsinghb\A2jagmeetsinghb\obj\Debug\A2jagmeetsinghb.csprojAssemblyReference.cache
+C:\Users\Jagmeet\Desktop\A2jagmeetsinghb\A2jagmeetsinghb\obj\Debug\A2jagmeetsinghb.csproj.CoreCompileInputs.cache
+C:\Users\Jagmeet\Desktop\A2jagmeetsinghb\A2jagmeetsinghb\obj\Debug\A2jagmeetsinghb.exe
+C:\Users\Jagmeet\Desktop\A2jagmeetsinghb\A2jagmeetsinghb\obj\Debug\A2jagmeetsinghb.pdb
